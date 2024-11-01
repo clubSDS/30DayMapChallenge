@@ -10,4 +10,4 @@ Code of Conduct:
 
 **No matter if you are a GIS expert or never made a map before this challenge, everyone is welcome to participate, But keep in mind a few things: - All maps you publish have to be your original work. Don’t steal content from others. - Give credit to the original data source whenever possible. - The challenge is all about creativity, openness and the joy of beautiful maps and cartography. It is not a competition, - Be mindful in how you use AI tooling. If you generate all of your maps with generative AI tools, where's the fun? This is not a prompt engineering challenge. - Don’t be an asshole. Don’t harass or steal from others.**
 
-[**You can check out all the graphs and the story behind them here: [https://medium.com/\@club.sds.helsinki/sdsc-club-30-day-map-challenge-9a8107b4e1a3](#0){.uri}**]{.underline}
+You can check out all the graphs and the story behind them here on [Medium]([url](https://medium.com/p/9a8107b4e1a3)).
